@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Computer Engineer. Passionate about Artificial Intelligence, Augmented Reality and Computer Graphics. 
 
-- 🔭 I’m currently working as Solutions Architect at [Smartbase Group](https://www.smartbasegroup.com).
+- 🔭 I am looking for new job opportunities in ✨Data Science✨ and ✨Machine Learning✨.
 - 🤖 Past years I have been developing virtual assistants for companies from several industries, using IBM Watson technologies.
 - 💻 I'm a hackathon enthusiast. I ranked as top 100 of the IBM Maratón Behind The Code for two years in a row. Also won awards on F8 Refresh, DeveloperWeek and Women in Voice hackathons.
 - ⚡My tech stack:
